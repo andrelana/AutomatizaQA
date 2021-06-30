@@ -6207,11 +6207,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\source\\repos\\TesteSite\\TesteSite\\TesteSite.csproj",
+      "projectUniqueName": "D:\\PROJETOS\\AutomatizaQA\\AutomatizaQA\\TesteSite\\TesteSite.csproj",
       "projectName": "TesteSite",
-      "projectPath": "C:\\Users\\Usuario\\source\\repos\\TesteSite\\TesteSite\\TesteSite.csproj",
+      "projectPath": "D:\\PROJETOS\\AutomatizaQA\\AutomatizaQA\\TesteSite\\TesteSite.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\source\\repos\\TesteSite\\TesteSite\\obj\\",
+      "outputPath": "D:\\PROJETOS\\AutomatizaQA\\AutomatizaQA\\TesteSite\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

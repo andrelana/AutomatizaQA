@@ -93,23 +93,11 @@ namespace TesteSite
 
             try { ChromeDriver.Quit(); } catch { }
 
-            try { AndroidDriver.Quit(); } catch { }
+            //try { AndroidDriver.Quit(); } catch { }
 
             TestContext.AddResultFile(Report);
 
             Console.WriteLine(Report);
-
-            //if (TestContext.CurrentTestOutcome != UnitTestOutcome.Passed)
-            //{
-            //    try
-            //    {
-            //        if (TestContext.Properties["bug"].ToString().ToUpperInvariant().Equals("TRUE"))
-            //        {
-            //            CreateBug();
-            //        }
-            //    }
-            //    catch { }
-            //}
         }
 
         #endregion

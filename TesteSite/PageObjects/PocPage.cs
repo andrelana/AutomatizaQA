@@ -7,6 +7,7 @@ namespace TesteSite.PageObjects
 {
     public class PocPage
     {
-        public static By FiltroBusca = By.XPath("//input[@name='q']");
+        public static By BotaoSkipLogin = By.Id("btn2");
+        public static By CabecalhoRegistro = By.XPath("//h2[text()='Register']");
     }
 }

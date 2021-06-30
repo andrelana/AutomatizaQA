@@ -10,12 +10,13 @@ namespace TesteSite.Features
     public class PocFeatures : Hooks
     {
         [AtributosDeTeste]
-
-        [TestMethod]
         public void ValidaAbertura()
         {
-            string Texto = "Teste";
-            PocStep.validaAbertura(Texto);
+            Report.LogTextBlueItalic("Dado: Que o site iniciou");
+            Report.LogTextBlueItalic("Quando: Acessar a tela de Login");
+            Report.LogTextBlueItalic("E: Clicar no botão 'Skip Sign in");
+            Report.LogTextBlueItalic("Então: A página de Registro será exibida");
+            PocStep.validaAbertura();
         }
     }
 }

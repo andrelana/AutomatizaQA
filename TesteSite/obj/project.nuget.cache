@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UODQszbdf0bXf9VymAAdvJ6agmk91cOAiMeXIYglKWYgWw9HKoRSoZ0x3WUU5Z4i/DDttlQwHTg8NbO3UQxbhA==",
+  "dgSpecHash": "9+ijqDdejQTNtF9Ppp7lsaZi0D3SoCCCALIZHox7EkNToetE6nH2dr9etD1Ro4Ky8EPKETFGpp9MEoI7Ge9qIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\source\\repos\\TesteSite\\TesteSite\\TesteSite.csproj",
+  "projectFilePath": "D:\\PROJETOS\\AutomatizaQA\\AutomatizaQA\\TesteSite\\TesteSite.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Usuario\\.nuget\\packages\\appium.webdriver\\4.3.1\\appium.webdriver.4.3.1.nupkg.sha512",
     "C:\\Users\\Usuario\\.nuget\\packages\\castle.core\\4.3.1\\castle.core.4.3.1.nupkg.sha512",
