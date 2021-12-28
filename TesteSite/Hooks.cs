@@ -68,7 +68,7 @@ namespace TesteSite
             }
 
             Driver = Utilitarios.ToChromeDriver(Driver, "Deploy", options);
-            Driver.Url = WebConfig.GetJsonToken("url");
+            Driver.Url = WebConfig.GetJsonToken("inspell");
         }
 
         [TestCleanup]
